@@ -1,12 +1,12 @@
 Ubuntu 17.10
-[*] Cài đặt các `Prerequirement Software` và update bản mới nhất
-	* git
-	* Postgresql (Lưu ý password để trống)
-	* Redis 3.6.x
-	* TimescaleDB 0.3
-	* RabbitMQ 3.6.x
-	* nmp
-	* nodejs
+# Prerequirement cài đặt và update phiên bản mới nhất
+- git
+- Postgresql (Lưu ý password để trống)
+- Redis 3.6.x
+- TimescaleDB 0.3
+- RabbitMQ 3.6.x
+- nmp
+- nodejs
 
 [*] chạy các service lên:
 	*  Postgresql
